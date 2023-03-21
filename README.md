@@ -14,6 +14,9 @@ Reading Data
 - Prediction on test set
 - Precision- Recall
 - ## Details of files given
-- Assignment Subjective Questions
+- Lead_Scoring_Case_Study_subjective_Answers
 - Leads.csv
 - LEAD CASE STUDY.ipynb
+- Summary Report.pdf
+- Lead Score Case Study Presentation
+- 
