@@ -16,7 +16,7 @@ Reading Data
 - ## Details of files given
 - Lead_Scoring_Case_Study_subjective_Answers
 - Leads.csv
-- LEAD CASE STUDY.ipynb
+- LEAD 2.ipynb
 - Summary Report.pdf
 - Lead Score Case Study Presentation
 - Leads Data Dictionary.xlsx
