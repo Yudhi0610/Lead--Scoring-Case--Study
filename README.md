@@ -16,4 +16,4 @@ Reading Data
 - ## Details of files given
 - Assignment Subjective Questions
 - Leads.csv
-- 
+- LEAD CASE STUDY.ipynb
