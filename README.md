@@ -19,4 +19,4 @@ Reading Data
 - LEAD CASE STUDY.ipynb
 - Summary Report.pdf
 - Lead Score Case Study Presentation
-- 
+- Leads Data Dictionary.xlsx
